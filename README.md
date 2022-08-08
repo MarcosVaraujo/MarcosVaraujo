@@ -7,7 +7,7 @@ No mercado de trabalho há 8 anos, desenvolvi minha carreira na indústria, onde
 Cursos concluídos:
 
 Lógica de programação,
-Banco de dados relacional (Sql-Server,
+Banco de dados relacional (Sql-Server),
 Angular (Essencial),
 Ionic,
 C# Visual Studio (Essencial),
